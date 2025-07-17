@@ -30,97 +30,16 @@ cd python-learning-projects
 
 ## 🤝 How to Contribute
 
-<details>
-<summary>1. Fork the Repository</summary>
-<br/>
-  
-```bash
-# Click "Fork" button at top-right of this repo
-# (Creates your copy at github.com/your-github-username/Python-mini-projects)
-```
+We welcome contributions from everyone! If you'd like to improve this project, add features, or report bugs:
 
-<img width="1580" height="392" alt="fork-button" src="https://github.com/user-attachments/assets/0f45b96b-4230-435d-a424-33eecfd0ae78" />
-</details>
+- Fork the repository
+- Clone your fork
+- Create a new branch (`git checkout -b feature/your-feature-name`)
+- Make your changes
+- Commit and push
+- Open a [pull request](https://github.com/mudasirfayaz/python-learning-projects/pulls)
 
-<details>
-<summary>2. Clone Your Fork</summary>
-<br/>
-  
-```bash
-git clone https://github.com/your-github-username/python-learning-projects.git
-cd Python-mini-projects
-```
-
-> ⚠️ Replace \<your-github-username\>!
-
-</details>
-
-<details>
-<summary>3. Set Upstream Sync</summary> 
-<br/>
-  
-```bash
-git remote add upstream https://github.com/mudasirfayaz/python-learning-projects.git
-```
-</details>
-
-<details>
-<summary>4. Create a Feature Branch</summary>
-<br/>
-  
-```bash
-git checkout -b <branch-name>
-```
-
-</details>
-
-<details>
-<summary>5. Make and Test Your Changes</summary>
-<br/>
-
-- Add new projects or improve existing ones
-- Test your code locally
-
-</details>
-
-<details>
-<summary>6. Commit and Push</summary>
-<br/>
-  
-Add the changes with `git add`, `git commit`:
-
-```bash
-git add .
-git commit -m "<your message>"
-```
-
-Push the code _to your repository_.
-
-```bash
-git push origin <branch-name>
-```
-
-</details>
-
-<details>
-<summary>7. Open a Pull Request</summary>
-<br/>
-  
-<img width="1336" height="580" alt="pr-request" src="https://github.com/user-attachments/assets/071fa89b-fb29-4afe-8662-7e944e7ad7a8" />
-
-- Go to your fork on GitHub
-- Click "Compare & Pull Request"
-- Describe your changes clearly
-
-<br/>
-
-> Pro tip: Run this before pushing to sync with main repo:
-
-```bash
-git pull upstream main
-```
-
-</details>
+Before you begin, please read our [**Contributing Guidelines**](./CONTRIBUTING.md).
 
 <br/>
 
