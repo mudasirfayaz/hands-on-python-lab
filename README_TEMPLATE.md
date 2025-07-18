@@ -6,32 +6,22 @@
 
 ## 🧠 Project Overview
 
-A brief overview of what this project is about and what it accomplishes. Describe the context, problem it solves, or the skill it demonstrates.
+- **Purpose**: What problem does this solve?
+- **Key Features**: Bullet points of main functionalities.
+- **Tech Stack**: Python + any libraries used (e.g., `requests`, `tkinter`).
 
 <br/>
 
-## 🚀 Features
+## Prerequisites
 
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3 (if applicable)
+- Python 3.x
 
-<br/>
+- Libraries:
 
-## 🔧 Requirements
-
-List any dependencies or requirements to run the project:
-
-```bash
-# Example for Python
-python >= 3.8
-```
-
-Install required packages:
-
-```bash
-pip install -r requirements.txt
-```
+  ```bash
+  # Example
+  pip install library1 library2
+  ```
 
 <br/>
 

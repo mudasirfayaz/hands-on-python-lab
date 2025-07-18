@@ -23,29 +23,30 @@ Each project must:
 
 ## 🧰 Contribution Guidelines
 
-1. Fork the Repository
+**1. Fork the Repository**
 
-```bash
-# Click "Fork" button at top-right of this repo
-# (Creates your copy at github.com/your-github-username/python-learning-projects)
-```
-
-<img width="1580" height="392" alt="fork-button" src="https://github.com/user-attachments/assets/0f45b96b-4230-435d-a424-33eecfd0ae78" />
+<img width="808" height="189" alt="Fork" src="https://github.com/user-attachments/assets/00249ab0-30fb-440e-8cc7-3105d2876d11" />
 
 <br/>
 
-2. Clone Your Fork
+- Click "Fork" button at top-right of this repo
+
+- (Creates your copy at github.com/your-github-username/python-learning-projects)
+
+<br/>
+
+**2. Clone Your Fork**
 
 ```bash
 git clone https://github.com/your-github-username/python-learning-projects.git
-cd Python-mini-projects
+cd python-learning-projects
 ```
 
 > ⚠️ Replace \<your-github-username\>!
 
 <br/>
 
-3. Create a Feature Branch
+**3. Create a Feature Branch**
 
 ```bash
 git checkout -b <branch-name>
@@ -53,7 +54,7 @@ git checkout -b <branch-name>
 
 <br/>
 
-4. Make and Test Your Changes
+**4. Make and Test Your Changes**
 
 - Add new projects or improve existing ones
 - Test your code locally
@@ -62,7 +63,7 @@ git checkout -b <branch-name>
 
 <br/>
 
-5. Commit and Push
+**5. Commit and Push**
 
 Add the changes with `git add`, `git commit`:
 
@@ -79,9 +80,9 @@ git push origin <branch-name>
 
 <br/>
 
-6. Open a Pull Request
+**6. Open a Pull Request**
 
-<img width="1336" height="580" alt="pr-request" src="https://github.com/user-attachments/assets/071fa89b-fb29-4afe-8662-7e944e7ad7a8" />
+<img width="1336" height="581" alt="pr-request" src="https://github.com/user-attachments/assets/64fe6847-532a-4fdc-b28a-90273783f14d" />
 
 <br/>
 
