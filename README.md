@@ -39,7 +39,10 @@ We welcome contributions from everyone! If you'd like to improve this project, a
 - Commit and push
 - Open a [pull request](https://github.com/mudasirfayaz/python-learning-projects/pulls)
 
-Before you begin, please read our [**Contributing Guidelines**](./CONTRIBUTING.md).
+<br/>
+
+> [!IMPORTANT]
+> Before you begin, please read our [**Contributing Guidelines**](./CONTRIBUTING.md).
 
 <br/>
 

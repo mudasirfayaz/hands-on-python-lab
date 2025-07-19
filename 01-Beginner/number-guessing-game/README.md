@@ -1,32 +1,35 @@
 # 🔢 Number Guessing Game (Python CLI)
 
-A fun, interactive number guessing game built using Python. The game allows users to choose a difficulty level, guess a randomly generated number within a range, and get feedback until they win or exhaust their attempts.
+> A fun, interactive number guessing game built using Python. The game allows users to choose a difficulty level, guess a randomly generated number within a range, and get feedback until they win or exhaust their attempts.
 
 <br/>
 
 ## 🎮 Game Features
 
 - 🎯 **Three difficulty levels**:
+
   - Easy: 1–50 (10 attempts)
   - Medium: 1–75 (6 attempts)
   - Hard: 1–100 (3 attempts)
+
 - 🔁 Replay options:
+
   - Guess again
   - Change difficulty level
   - Quit the game
+
 - 🧠 Intelligent feedback:
   - "Too High" or "Too Low" hints after each guess
-- 🛡️ Robust input validation for levels and guesses
-- 🎉 Celebratory message on win, loss message on failure
+  - 🛡️ Robust input validation for levels and guesses
+  - 🎉 Celebratory message on win, loss message on failure
 
 <br/>
 
-## 🛠️ Technologies Used
+## 🛠️ Prerequisites
 
-- **Python 3.13.3**
+- Python 3.8+
 - Built-in modules:
   - `random` — for number generation
-  - `input()` — for user interaction
 
 <br/>
 
@@ -35,8 +38,8 @@ A fun, interactive number guessing game built using Python. The game allows user
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mudasirfayaz/Python-mini-projects.git
-   cd .\Python-mini-projects\"Guess The Number Game"
+   git clone https://github.com/mudasirfayaz/python-learning-projects.git
+   cd python-learning-projects/01-Beginner/number-guessing-game
    ```
 
 2. **Run the script:**
@@ -45,7 +48,8 @@ A fun, interactive number guessing game built using Python. The game allows user
    python game.py
    ```
 
-   > ⚠️ Make sure you have Python 3 installed and accessible from your terminal or command prompt.
+   > [!WARNING]
+   > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
 
 3. **Follow the prompts:**
 
@@ -95,10 +99,13 @@ Type 'q' to quit:
 
 <br/>
 
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+
+<br/>
+
 ## 🧑‍💻 Author
 
-[Mudasir Fayaz](https://github.com/mudasirfayaz/)
-
-Student | Tech Enthusiast | Lifelong Learner
-
-“Building fun and useful Python tools”
+**[Mudasir Fayaz](https://github.com/mudasirfayaz/)** - Student | Tech Enthusiast | Lifelong Learner<br/>
+_Building fun and useful Python tools_
