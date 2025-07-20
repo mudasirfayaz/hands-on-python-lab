@@ -16,7 +16,7 @@ Please provide a concise description of what your project does and what this pul
 
 ## ✅ Checklist
 
-Please confirm the following before requesting a merge:
+**Please confirm the following before requesting a merge:**
 
 - [ ] My project folder is placed inside the correct difficulty directory.
 - [ ] A detailed `README.md` has been added inside the project folder.
