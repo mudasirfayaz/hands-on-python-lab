@@ -47,8 +47,8 @@
    python calculator.py
    ```
 
-   > [!WARNING]
-   > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
+> [!WARNING]
+> Make sure you have Python 3 installed and accessible from your terminal or command prompt.
 
 <br/>
 
@@ -95,3 +95,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 **[Mudasir Fayaz](https://github.com/mudasirfayaz/)** - Student | Tech Enthusiast | Lifelong Learner<br/>
 _Building fun and useful Python tools_
+
+<br/>
+
+# 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.

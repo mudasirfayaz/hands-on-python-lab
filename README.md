@@ -1,4 +1,4 @@
-# Python Mini Projects 🐍
+# Python Learning Projects 🐍
 
 This repository is a curated collection of Python projects created while learning the language. Projects are organized by difficulty level and demonstrate growth from beginner to advanced topics.
 
