@@ -14,6 +14,16 @@
 
 <br/>
 
+## 🧠 Concepts Reinforced in This Project
+
+- Dictionaries (nested structures)
+- Functions & modular programming
+- Loops ─ `while`, `for`
+- Conditional logic
+- User input handling
+
+<br/>
+
 ## 🛠️ Prerequisites
 
 - Python 3.6 or higher
