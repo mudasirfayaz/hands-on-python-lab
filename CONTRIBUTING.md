@@ -1,10 +1,13 @@
-# 🚀 Contributing to Python-learning-Projects Repository
+![Output](assets/contributing.png)
 
-Thank you for your interest in contributing! We welcome and appreciate all contributions that help grow and improve this collection of Python projects.
+<p> </p>
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-green)
 
 <br/>
 
-## 📁 Repository Structure
+## Repository Structure
 
 Please place your project in the appropriate difficulty folder:
 
@@ -21,28 +24,30 @@ Each project must:
 
 <br/>
 
-## 🧰 Contribution Guidelines
+## Contribution Guidelines
 
 **1. Fork the Repository**
 
-<img width="808" height="189" alt="Fork" src="https://github.com/user-attachments/assets/00249ab0-30fb-440e-8cc7-3105d2876d11" />
+![Output](assets/fork.png)
 
 <br/>
 
 - Click "Fork" button at top-right of this repo
-
-- (Creates your copy at github.com/your-github-username/python-learning-projects)
+- (Creates your copy at github.com/your-github-username/hands-on-python-lab)
 
 <br/>
 
 **2. Clone Your Fork**
 
 ```bash
-git clone https://github.com/your-github-username/python-learning-projects.git
-cd python-learning-projects
+git clone https://github.com/your-github-username/hands-on-python-lab.git
+cd hands-on-python-lab
 ```
 
-> ⚠️ Replace \<your-github-username\>!
+<br/>
+
+> [!WARNING]
+> Replace \<your-github-username\>!
 
 <br/>
 
@@ -82,38 +87,30 @@ git push origin <branch-name>
 
 **6. Open a Pull Request**
 
-<img width="1336" height="581" alt="pr-request" src="https://github.com/user-attachments/assets/64fe6847-532a-4fdc-b28a-90273783f14d" />
+![Output](assets/pr-request.png)
 
 <br/>
 
 - Go to your fork on GitHub
-
 - Click "Compare & Pull Request"
-
 - Describe your changes clearly
 
 <br/>
 
-## 📎 Pull Request Requirements
+## Pull Request Requirements
 
 - ✅ Include a `README.md` for new projects
-
 - ✅ Update `README.md` for new features.
-
 - ✅ Make sure your code runs without errors.
-
 - ✅ Avoid adding third-party dependencies unless necessary.
-
 - ✅ Follow directory and naming conventions.
 
 <br/>
 
-## 💡Contribution Ideas:
+![Output](assets/star.png)
 
-- Add new mini-projects
+<p> </p>
 
-- Improve existing code
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
-- Fix documentation
-
-- Report bugs
+_(Need help? Open an [issue](https://github.com/mudasirfayaz/hands-on-python-lab/issues).)_
