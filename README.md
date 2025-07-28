@@ -1,34 +1,72 @@
-# Python Learning Projects 🐍
+![Output](assets/banner.png)
 
-This repository is a curated collection of Python projects created while learning the language. Projects are organized by difficulty level and demonstrate growth from beginner to advanced topics.
+<p> </p>
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-green)
 
 <br/>
 
-## 📌 Purpose
+## Hands-On Python Lab
+
+A curated collection of hands-on Python mini-projects built from the ground up — combining practice, creativity, and core concept mastery. This lab is a personal sandbox where I experiment with Python fundamentals, object-oriented design, logic building, CLI tools, and creative graphics — all while documenting my learning journey in code.
+
+<br/>
+
+## Project Structure
+
+Organized by difficulty for easy navigation and reflection of my progress.
+
+### Beginner
+
+| Project          | Description                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| `hangman/`       | A simple command-line implementation of the classic Hangman game                                |
+| `caesar-cipher/` | A simple Caesar Cipher encoder/decoder with support for multiple shifts and character filtering |
+
+### Intermediate
+
+| Project                | Description                                                             |
+| ---------------------- | ----------------------------------------------------------------------- |
+| `hirst-spot-painting/` | A creative dot-art generator inspired by the famous Hirst dot paintings |
+| `quiz-app/`            | A simple terminal-based quiz app                                        |
+
+### Advanced
+
+Comming soon..
+
+<br/>
+
+## Purpose
 
 - Practice Python through real-world scripts
-
 - Build a portfolio of hands-on projects
-
 - Demonstrate problem-solving and progression
 
-  <br/>
+<br/>
 
-## 🚀 Quick Start
+## Concepts Covered
+
+- ✅ Python Basics: Variables, Loops, Conditionals
+- ✅ Data Structures: Lists, Tuples, Dictionaries
+- ✅ Object-Oriented Programming (OOP): Classes, Encapsulation, Abstraction
+- ✅ CLI Interactions and Input Validation
+- ✅ Modular Code Design and Scalability
+
+<br/>
+
+## Quick Start
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/mudasirfayaz/python-learning-projects.git
-cd python-learning-projects
+git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
+cd hands-on-python-lab
 ```
 
 <br/>
 
-## 🤝 How to Contribute
+## How to Contribute 🤝
 
 We welcome contributions from everyone! If you'd like to improve this project, add features, or report bugs:
 
@@ -37,7 +75,7 @@ We welcome contributions from everyone! If you'd like to improve this project, a
 - Create a new branch (`git checkout -b feature/your-feature-name`)
 - Make your changes
 - Commit and push
-- Open a [pull request](https://github.com/mudasirfayaz/python-learning-projects/pulls)
+- Open a pull request
 
 <br/>
 
@@ -46,29 +84,10 @@ We welcome contributions from everyone! If you'd like to improve this project, a
 
 <br/>
 
-## 💡Contribution Ideas:
+![Output](assets/footer.png)
 
-- Add new mini-projects
-- Improve existing code
-- Fix documentation
-- Report bugs
+<p> </p>
 
-<br/>
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
-## 📌 Guidelines
-
-- ✓ Code Style: Follow PEP 8 (use a linter like flake8).
-
-- ✓ Documentation: Update README.md for new features.
-
-- ✓ Atomic PRs: One feature/fix per pull request.
-
-<br/>
-
-### ⭐ Star this repo if you find it useful! ⭐
-
-<hr/>
-
-### Thank you for contributing! 🌟
-
-_(Need help? Open an [issue](https://github.com/mudasirfayaz/python-learning-projects/issues))_
+_(Need help? Open an [issue](https://github.com/mudasirfayaz/hands-on-python-lab/issues).)_
