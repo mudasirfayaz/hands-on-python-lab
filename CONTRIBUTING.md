@@ -1,4 +1,4 @@
-![Output](assets/contributing.png)
+![Output](assets//docs/contributing.png)
 
 <p> </p>
 
@@ -28,7 +28,7 @@ Each project must:
 
 **1. Fork the Repository**
 
-![Output](assets/fork.png)
+![Output](assets/docs/fork.png)
 
 <br/>
 
@@ -87,7 +87,7 @@ git push origin <branch-name>
 
 **6. Open a Pull Request**
 
-![Output](assets/pr-request.png)
+![Output](assets/docs/pr-request.png)
 
 <br/>
 
@@ -107,7 +107,7 @@ git push origin <branch-name>
 
 <br/>
 
-![Output](assets/star.png)
+![Output](assets/docs/star.png)
 
 <p> </p>
 
