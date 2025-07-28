@@ -1,2 +1,0 @@
-tom.penup()
-    tom.hideturtle()
