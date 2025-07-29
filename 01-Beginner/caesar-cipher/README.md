@@ -1,8 +1,6 @@
-# Caesar Cipher CLI Tool
+![Output](assets/banner.png)
 
-> A simple Caesar Cipher encoder/decoder with support for multiple shifts and character filtering.
-
-<br/>
+<p> </p>
 
 ## Features
 
@@ -15,23 +13,24 @@
 ## 🛠️ Prerequisites
 
 - Python 3.8+
+- No external libraries required
 
 <br/>
 
 ## 💻 How to Run
 
-1. **Clone the repository:**
+**1. Clone the repository:**
 
-   ```bash
-   git clone https://github.com/mudasirfayaz/python-learning-projects.git
-   cd python-learning-projects/01-Beginner/caesar-cipher
-   ```
+```bash
+git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
+cd hands-on-python-lab/01-Beginner/caesar-cipher
+```
 
-2. **Run the script:**
+**2. Run the script:**
 
-   ```bash
-   python caeser-cipher.py
-   ```
+```bash
+python caeser-cipher.py
+```
 
 > [!WARNING]
 > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
@@ -46,7 +45,12 @@
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+We welcome contributions from everyone! If you'd like to improve this project, add features, or report bugs
+
+<br/>
+
+> [!IMPORTANT]
+> Before you begin, please read our [**Contributing Guidelines**](/CONTRIBUTING.md).
 
 <br/>
 
@@ -59,4 +63,8 @@ _Building fun and useful Python tools_
 
 # 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](/LICENSE) file for details.
+
+<br/>
+
+![Output](assets/star.png)
