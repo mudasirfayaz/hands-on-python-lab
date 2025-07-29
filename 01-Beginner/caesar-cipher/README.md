@@ -63,7 +63,7 @@ _Building fun and useful Python tools_
 
 # 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](/LICENSE) file for details.
 
 <br/>
 
