@@ -41,7 +41,7 @@
 
 ```bash
 git clone https://github.com/mudasirfayaz/python-learning-projects.git
-cd python-learning-projects/02-Intermediate/hirst-spot-painting
+cd python-learning-projects/02-Intermediate/turtle-projects/hirst-spot-painting
 ```
 
 **2. Run the script:**
