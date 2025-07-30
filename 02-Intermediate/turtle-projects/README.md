@@ -1,28 +1,30 @@
-# 🐢 Turtle Projects Lab
+# Turtle Projects Lab 🐢
 
 > A collection of creative graphics-based Python projects built using the `turtle` module. These projects explore drawing, animation, color theory, and interactive GUI behaviors using Turtle graphics.
 
-> <br/>
+<br/>
 
 ## 📂 Projects Included
 
-| Project                | Description                                               |
-| :--------------------- | :-------------------------------------------------------- |
-| `hirst-spot-painting/` | Creates a randomized dot grid inspired by Hirst's artwork |
-| `turtle-race`          | Simulates a colorful race between turtles                 |
+| Project                 | Description                                               |
+| :---------------------- | :-------------------------------------------------------- |
+| **hirst-spot-painting** | Creates a randomized dot grid inspired by Hirst's artwork |
+| **turtle-race**         | Simulates a colorful race between turtles                 |
 
 <br/>
 
 ## 🛠️ Prerequisites
 
-- Python 3.6 or higher
-- No external libraries required
+- Python 3.8+
+- Built-in modules:
+  - `turtle` — to create drawings and animations
+  - `random` — for number generation
 
 <br/>
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! If you'd like to improve this project, add features, or report bugs
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
 
 <br/>
 
@@ -44,4 +46,4 @@ This project is licensed under the MIT License — see the [LICENSE](./LICENSE) 
 
 <br/>
 
-![Output](/assets/docs/star.png)
+![Star](/assets/docs/star.png)

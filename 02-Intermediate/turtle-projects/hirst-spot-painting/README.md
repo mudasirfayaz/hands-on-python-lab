@@ -2,7 +2,7 @@
 
 > A creative dot-art generator built using Python's `turtle` graphics module. Inspired by the famous Hirst dot paintings, this tool lets you draw colorful, randomized dot grids — fully customizable in size, spacing, and palette.
 
-> <br/>
+<br/>
 
 ## 🎯 Features
 
@@ -40,8 +40,8 @@
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/mudasirfayaz/python-learning-projects.git
-cd python-learning-projects/02-Intermediate/turtle-projects/hirst-spot-painting
+git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
+cd hands-on-python-lab/02-Intermediate/turtle-projects/hirst-spot-painting
 ```
 
 **2. Run the script:**
@@ -50,6 +50,8 @@ cd python-learning-projects/02-Intermediate/turtle-projects/hirst-spot-painting
 python main.py
 ```
 
+<br/>
+
 > [!WARNING]
 > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
 
@@ -57,7 +59,12 @@ python main.py
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
+
+<br/>
+
+> [!IMPORTANT]
+> Before you begin, please read our [**Contributing Guidelines**](/CONTRIBUTING.md).
 
 <br/>
 
@@ -71,3 +78,7 @@ _Building fun and useful Python tools_
 # 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+<br/>
+
+![Star](/assets/docs/star.png)

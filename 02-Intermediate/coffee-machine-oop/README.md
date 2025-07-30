@@ -33,18 +33,20 @@
 
 ## 💻 How to Run
 
-1. **Clone the repository:**
+**1. Clone the repository:**
 
-   ```bash
-   git clone https://github.com/mudasirfayaz/python-learning-projects.git
-   cd python-learning-projects/02-Intermediate/coffee-machine-oop
-   ```
+```bash
+git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
+cd hands-on-python-lab/02-Intermediate/coffee-machine-oop
+```
 
-2. **Run the script:**
+**2. Run the script:**
 
-   ```bash
-   python main.py
-   ```
+```bash
+python main.py
+```
+
+<br/>
 
 > [!WARNING]
 > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
@@ -54,9 +56,7 @@
 📝 Commands
 
 - `espresso`, `latte`, `cappuccino` — Order a drink
-
 - `report` — Print current resources and money
-
 - `off` — Shut down the machine
 
 <br/>
@@ -104,17 +104,12 @@ Here is your latte ☕ Enjoy!
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
 
 <br/>
 
-### 🧪 Future Improvements (Suggestions)
-
-- Refill resources functionality
-- Persistent profit tracking (via file/JSON)
-- Multi-user mode with login
-- GUI version using Tkinter or PyQT
-- Custom drink creation by users
+> [!IMPORTANT]
+> Before you begin, please read our [**Contributing Guidelines**](/CONTRIBUTING.md).
 
 <br/>
 
@@ -128,3 +123,7 @@ _Building fun and useful Python tools_
 # 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+<br/>
+
+![Star](/assets/docs/star.png)

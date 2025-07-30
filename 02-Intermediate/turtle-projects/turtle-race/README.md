@@ -1,8 +1,8 @@
-# 🐢 Turtle Race
+# Turtle Race 🐢
 
 > A fun and interactive turtle graphics game where 6 colorful turtles race across the screen. Users place a bet on which turtle color will win — and then watch the race unfold!
 
-> <br/>
+<br/>
 
 ## Project Overview
 
@@ -68,7 +68,7 @@ Choose from: (red, orange, yellow, green, blue, purple)
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! If you'd like to improve this project, add features, or report bugs
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
 
 <br/>
 
@@ -86,8 +86,8 @@ _Building fun and useful Python tools_
 
 # 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](/LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
 <br/>
 
-![Output](/assets/docs/star.png)
+![Star](/assets/docs/star.png)
