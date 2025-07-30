@@ -9,7 +9,7 @@
 | Project                | Description                                               |
 | :--------------------- | :-------------------------------------------------------- |
 | `hirst-spot-painting/` | Creates a randomized dot grid inspired by Hirst's artwork |
-| `turtle-race.py`       | Simulates a colorful race between turtles                 |
+| `turtle-race`          | Simulates a colorful race between turtles                 |
 
 <br/>
 
