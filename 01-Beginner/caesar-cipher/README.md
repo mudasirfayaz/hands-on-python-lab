@@ -1,6 +1,8 @@
-![Output](assets/banner.png)
+# Caesar Cipher
 
-<p> </p>
+> A simple Caesar Cipher encoder/decoder with support for multiple shifts and character filtering.
+
+<br/>
 
 ## Features
 
@@ -13,7 +15,8 @@
 ## 🛠️ Prerequisites
 
 - Python 3.8+
-- No external libraries required
+- Built-in modules:
+  - `string` — provides a collection of useful constants and classes for working with strings.
 
 <br/>
 
@@ -32,6 +35,8 @@ cd hands-on-python-lab/01-Beginner/caesar-cipher
 python caeser-cipher.py
 ```
 
+<br/>
+
 > [!WARNING]
 > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
 
@@ -45,7 +50,7 @@ python caeser-cipher.py
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! If you'd like to improve this project, add features, or report bugs
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
 
 <br/>
 
@@ -67,4 +72,4 @@ This project is licensed under the MIT License — see the [LICENSE](/LICENSE) f
 
 <br/>
 
-![Output](assets/star.png)
+![Star](assets/star.png)
