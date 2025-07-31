@@ -1,6 +1,5 @@
 class QuizBrain:
     def __init__(self, q_list):
-        self.answers = ["true", "false"]
         self.question_number = 0
         self.question_list = q_list
         self.score = 0
@@ -11,28 +10,30 @@ class QuizBrain:
     def next_question(self):
         current_question = self.question_list[self.question_number]
         self.question_number += 1
+
+        # Display question and choices
+        print(f"Q.{self.question_number}: {current_question.text}")
+        option_letters = ["A", "B", "C", "D"]
+        option_map = {}
+
+        for i, option in enumerate(current_question.options):
+            print(f"{option_letters[i]}. {option}")
+            option_map[option_letters[i]] = option
+
         while True:
-            user_answer = input(
-                f"Q.{self.question_number}: {current_question.text} (True/False): "
-            )
-            if not self.invalid_answer(user_answer):
-                self.check_answer(user_answer, current_question.answer)
+            user_input = input("Your answer (A/B/C/D): ").strip().upper()
+            if user_input in option_map:
+                selected_option = option_map[user_input]
+                self.check_answer(selected_option, current_question.answer)
                 break
             else:
-                continue
-
-    def invalid_answer(self, user_answer):
-        if user_answer.lower() not in self.answers:
-            print("Invalid answer. Write True or False.")
-            print(" ")
-            return True
-        return False
+                print("Invalid input. Please select A, B, C, or D.")
 
     def check_answer(self, user_answer, correct_answer):
 
         if user_answer.lower() == correct_answer.lower():
             self.score += 1
-            print("Wright answer ✅")
+            print("Correct answer ✅")
         else:
-            print("Wrong answer ❌")
+            print(f"Wrong answer!. (The correct answer is {correct_answer})")
         print(" ")
