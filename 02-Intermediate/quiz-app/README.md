@@ -1,6 +1,6 @@
-# 🧠 Quiz Game
+# Quiz App 🧠
 
-> A simple terminal-based quiz app built using Python and Object-Oriented Programming (OOP). The application reads True/False questions from a data source and quizzes the user interactively, tracking the score and validating inputs.
+> A simple terminal-based quiz app built using Python and Object-Oriented Programming (OOP). The application reads Multiple Choice Questions from a data source and quizzes the user interactively, tracking the score and validating inputs.
 
 <br/>
 
@@ -14,8 +14,8 @@
 
 ## Features
 
-- Presents a series of True/False questions
-- Validates user input (rejects anything other than "True" or "False")
+- Presents a series of Multiple Choice Questions (MCQs)
+- Validates user input (rejects anything other than A, B, C or D)
 - Tracks and displays score in real-time
 - Modular class-based design using clean separation of responsibilities
 - Extendable for future enhancements (e.g., GUI, file-based questions, multiple users)
@@ -47,8 +47,8 @@
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/mudasirfayaz/python-learning-projects.git
-cd python-learning-projects/02-Intermediate/quiz-game
+git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
+cd hands-on-python-lab/02-Intermediate/quiz-app
 ```
 
 **2. Run the script:**
@@ -56,6 +56,8 @@ cd python-learning-projects/02-Intermediate/quiz-game
 ```bash
 python main.py
 ```
+
+<br/>
 
 > [!WARNING]
 > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
@@ -65,11 +67,13 @@ python main.py
 ## 🧪 Example Output
 
 ```bash
-Q.1: Linux was first created as an alternative to Windows XP. (True/False): false
-Wright answer ✅
-
-Q.2: A Mac is not a PC (True/False): true
-Wrong answer ❌
+Q.1: What programming language was GitHub written in?
+A. Swift
+B. Kotlin
+C. JavaScript
+D. C#
+Your answer (A/B/C/D): a
+Wrong answer!. (The correct answer is Kotlin)
 
 ...
 
@@ -81,7 +85,12 @@ Your final score is: 8/10
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
+
+<br/>
+
+> [!IMPORTANT]
+> Before you begin, please read our [**Contributing Guidelines**](/CONTRIBUTING.md).
 
 <br/>
 
@@ -106,3 +115,7 @@ _Building fun and useful Python tools_
 # 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+<br/>
+
+![Star](/assets/docs/star.png)
