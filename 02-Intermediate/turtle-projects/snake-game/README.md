@@ -1,29 +1,18 @@
-# Turtle Race 🐢
+# Snake Game 🐍
 
-> A fun and interactive turtle graphics game where 6 colorful turtles race across the screen. Users place a bet on which turtle color will win — and then watch the race unfold!
-
-<br/>
-
-## Project Overview
-
-This mini-project is built using Python's built-in `turtle` module and showcases:
-
-- Object creation and management (`Turtle()` instances)
-- User interaction through input dialogs (`screen.textinput()`)
-- Simple game logic with win conditions
-- Randomized movement using the `random` module
+> A classic **Snake Game** built using Python's built-in `turtle` graphics module. You control the snake with arrow keys, eat food to grow, and try not to crash!
 
 <br/>
 
 ## 🧠 Concepts Practiced
 
-- Turtle graphics & screen setup
-- Object lists and loop-based initialization
-- `penup()` positioning logic
-- User input via dialog box
-- `xcor()` checking for goal completion
-- Conditional result logic
-- Random integer generation for movement
+This project solidifies core Python and OOP concepts:
+
+- Classes, methods, and encapsulation
+- `turtle` graphics and animation loops
+- Keyboard event handling
+- Collision detection (`distance()`)
+- Clean modular architecture
 
 <br/>
 
@@ -32,7 +21,8 @@ This mini-project is built using Python's built-in `turtle` module and showcases
 - Python 3.8+
 - Built-in modules:
   - `turtle` — to create drawings and animations
-  - `random` — for number generation
+  - `random` — for food generation at random locations
+  - `time` — to slow down the drawing actions of the snake
 
 <br/>
 
@@ -42,7 +32,7 @@ This mini-project is built using Python's built-in `turtle` module and showcases
 
 ```bash
 git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
-cd hands-on-python-lab/02-Intermediate/turtle-projects/turtle-race
+cd hands-on-python-lab/02-Intermediate/turtle-projects/snake-game
 ```
 
 **2. Run the script:**
@@ -51,18 +41,23 @@ cd hands-on-python-lab/02-Intermediate/turtle-projects/turtle-race
 python main.py
 ```
 
-**2. A dialog box will appear asking:**
-
-```bash
-Which turtle will win the race? Enter a color:
-```
-
-Choose from: (red, orange, yellow, green, blue, purple)
-
 <br/>
 
 > [!WARNING]
 > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
+
+<br/>
+
+## 🎮 How to Play
+
+- Use **arrow keys** to control the snake:
+  - `↑` Up
+  - `↓` Down
+  - `←` Left
+  - `→` Right
+- Eat the yellow food dots to grow longer.
+- Avoid hitting the walls or your own tail.
+- Game ends with a **"GAME OVER"** message and your score.
 
 <br/>
 
@@ -74,6 +69,15 @@ Contributions are welcome and encouraged — whether you're fixing a typo, impro
 
 > [!IMPORTANT]
 > Before you begin, please read our [**Contributing Guidelines**](/CONTRIBUTING.md).
+
+<br/>
+
+### 🧪 Future Improvements (Suggestions)
+
+- Save and display high scores
+- Restart game on key press
+- Increasing difficulty levels
+- Sound effects
 
 <br/>
 
