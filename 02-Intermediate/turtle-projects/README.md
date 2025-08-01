@@ -6,10 +6,11 @@
 
 ## 📂 Projects Included
 
-| Project                 | Description                                               |
-| :---------------------- | :-------------------------------------------------------- |
-| **hirst-spot-painting** | Creates a randomized dot grid inspired by Hirst's artwork |
-| **turtle-race**         | Simulates a colorful race between turtles                 |
+| Project                 | Description                                                                     |
+| :---------------------- | :------------------------------------------------------------------------------ |
+| **hirst-spot-painting** | Creates a randomized dot grid inspired by Hirst's artwork                       |
+| **turtle-race**         | Simulates a colorful race between turtles                                       |
+| **snake-game**          | A classic **Snake Game** built using Python's built-in `turtle` graphics module |
 
 <br/>
 

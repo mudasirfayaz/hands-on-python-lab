@@ -42,7 +42,7 @@ This mini-project is built using Python's built-in `turtle` module and showcases
 
 ```bash
 git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
-cd hands-on-python-lab/01-Beginner/turtle-projects/turtle-race
+cd hands-on-python-lab/02-Intermediate/turtle-projects/turtle-race
 ```
 
 **2. Run the script:**
