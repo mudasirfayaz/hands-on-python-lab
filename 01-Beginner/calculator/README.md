@@ -1,4 +1,4 @@
-# 🧮 Command-Line Calculator (Python)
+# Command-Line Calculator 🧮
 
 > A clean, interactive, and beginner-friendly command-line calculator built in Python. This utility supports basic arithmetic operations (`+`, `-`, `*`, `/`) with intuitive flow control for continuous calculations, restarts, and safe exits.
 
@@ -7,19 +7,13 @@
 ## 🚀 Features
 
 - ✅ Handles addition, subtraction, multiplication, and division
-
 - ✅ Graceful handling of invalid inputs (non-numeric, divide-by-zero, invalid operator)
-
 - ✅ Option to:
-
   - Continue calculating with the previous result
   - Start a new calculation
   - Exit the application
-
 - ✅ Rounded result output for clean readability
-
 - ✅ Auto-removes unnecessary `.0` for whole number inputs (e.g., `5.0 → 5`)
-
 - ✅ Uses Python’s `operator` module for clean, maintainable logic
 
 <br/>
@@ -34,18 +28,20 @@
 
 ## 💻 How to Run
 
-1. **Clone the repository:**
+**1. Clone the repository:**
 
-   ```bash
-   git clone https://github.com/mudasirfayaz/python-learning-projects.git
-   cd python-learning-projects/01-Beginner/calculator
-   ```
+```bash
+git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
+cd hands-on-python-lab/01-Beginner/calculator
+```
 
-2. **Run the script:**
+**2. Run the script:**
 
-   ```bash
-   python calculator.py
-   ```
+```bash
+python calculator.py
+```
+
+<br/>
 
 > [!WARNING]
 > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
@@ -76,18 +72,20 @@ Enter second no: 8
 ## 📈 Future Enhancements (Optional Ideas)
 
 - Support for advanced operators: \*\*, //, %
-
 - GUI version using Tkinter
-
 - Command-line argument support (via argparse)
-
 - Export calculation history to a .txt file
 
 <br/>
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
+
+<br/>
+
+> [!IMPORTANT]
+> Before you begin, please read our [**Contributing Guidelines**](/CONTRIBUTING.md).
 
 <br/>
 
@@ -101,3 +99,7 @@ _Building fun and useful Python tools_
 # 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+<br/>
+
+![Star](/assets/docs/star.png)
