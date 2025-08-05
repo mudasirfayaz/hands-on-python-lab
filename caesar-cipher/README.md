@@ -26,7 +26,7 @@
 
 ```bash
 git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
-cd hands-on-python-lab/01-Beginner/caesar-cipher
+cd hands-on-python-lab/caesar-cipher
 ```
 
 **2. Run the script:**

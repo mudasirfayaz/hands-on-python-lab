@@ -41,7 +41,7 @@
 
 ```bash
 git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
-cd hands-on-python-lab/02-Intermediate/turtle-projects/hirst-spot-painting
+cd hands-on-python-lab/hirst-spot-painting
 ```
 
 **2. Run the script:**

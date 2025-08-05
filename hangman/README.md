@@ -28,8 +28,8 @@
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/mudasirfayaz/python-learning-projects.git
-cd python-learning-projects/01-Beginner/hangman
+git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
+cd hands-on-python-lab/hangman
 ```
 
 **2. Run the script:**
@@ -62,7 +62,12 @@ python hangman.py
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
+
+<br/>
+
+> [!IMPORTANT]
+> Before you begin, please read our [**Contributing Guidelines**](/CONTRIBUTING.md).
 
 <br/>
 
@@ -76,3 +81,7 @@ _Building fun and useful Python tools_
 # 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+<br/>
+
+![Star](/assets/docs/star.png)

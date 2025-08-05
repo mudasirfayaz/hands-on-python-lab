@@ -37,7 +37,7 @@
 
 ```bash
 git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
-cd hands-on-python-lab/02-Intermediate/coffee-machine
+cd hands-on-python-lab/coffee-machine
 ```
 
 **2. Run the script:**

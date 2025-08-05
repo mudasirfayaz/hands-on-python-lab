@@ -32,7 +32,7 @@ This project solidifies core Python and OOP concepts:
 
 ```bash
 git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
-cd hands-on-python-lab/02-Intermediate/turtle-projects/snake-game
+cd hands-on-python-lab/snake-game
 ```
 
 **2. Run the script:**

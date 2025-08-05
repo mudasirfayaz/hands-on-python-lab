@@ -35,29 +35,33 @@
 
 ## 💻 How to Play
 
-1. **Clone the repository:**
+**1. Clone the repository:**
 
-   ```bash
-   git clone https://github.com/mudasirfayaz/python-learning-projects.git
-   cd python-learning-projects/01-Beginner/number-guessing-game
-   ```
+```bash
+git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
+cd hands-on-python-lab/number-guessing-game
+```
 
-2. **Run the script:**
+**2. Run the script:**
 
-   ```bash
-   python game.py
-   ```
+```bash
+python game.py
+```
+
+<br/>
 
 > [!WARNING]
 > Make sure you have Python 3 installed and accessible from your terminal or command prompt.
 
-3. **Follow the prompts:**
+<br/>
 
-   - Select a level: easy, medium, or hard
+**3. Follow the prompts:**
 
-   - Guess the number within the range and remaining attempts
+- Select a level: easy, medium, or hard
 
-   - Get feedback and keep guessing until you win or lose
+- Guess the number within the range and remaining attempts
+
+- Get feedback and keep guessing until you win or lose
 
 <br/>
 
@@ -99,9 +103,16 @@ Type 'q' to quit:
 
 <br/>
 
+<br/>
+
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+Contributions are welcome and encouraged — whether you're fixing a typo, improving documentation, or adding a new mini-project to the lab!
+
+<br/>
+
+> [!IMPORTANT]
+> Before you begin, please read our [**Contributing Guidelines**](/CONTRIBUTING.md).
 
 <br/>
 
@@ -115,3 +126,7 @@ _Building fun and useful Python tools_
 ## 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+<br/>
+
+![Star](/assets/docs/star.png)

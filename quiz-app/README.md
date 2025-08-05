@@ -48,7 +48,7 @@
 
 ```bash
 git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
-cd hands-on-python-lab/02-Intermediate/quiz-app
+cd hands-on-python-lab/quiz-app
 ```
 
 **2. Run the script:**
