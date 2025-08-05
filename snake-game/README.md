@@ -1,6 +1,18 @@
 # Snake Game 🐍
 
-> A classic **Snake Game** built using Python's built-in `turtle` graphics module. You control the snake with arrow keys, eat food to grow, and try not to crash!
+> Enjoy a classic **Snake Game** crafted with Python's `turtle` graphics. Steer the snake using arrow keys, eat food to grow longer, and avoid collisions with walls or yourself!
+
+<br/>
+
+## ✨ Features
+
+- Classic snake movement and growth
+- Save and display high scores
+- Random food generation
+- Collision detection with walls and self
+- Simple keyboard controls
+- Modular code structure
+- Easy to customize and extend
 
 <br/>
 
@@ -57,7 +69,6 @@ python main.py
   - `→` Right
 - Eat the yellow food dots to grow longer.
 - Avoid hitting the walls or your own tail.
-- Game ends with a **"GAME OVER"** message and your score.
 
 <br/>
 
@@ -74,7 +85,6 @@ Contributions are welcome and encouraged — whether you're fixing a typo, impro
 
 ### 🧪 Future Improvements (Suggestions)
 
-- Save and display high scores
 - Restart game on key press
 - Increasing difficulty levels
 - Sound effects
