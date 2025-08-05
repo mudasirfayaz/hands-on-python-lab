@@ -32,7 +32,7 @@
 
 ```bash
 git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
-cd hands-on-python-lab/01-Beginner/calculator
+cd hands-on-python-lab/calculator
 ```
 
 **2. Run the script:**
