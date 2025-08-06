@@ -1,36 +1,34 @@
-# 🔀 Pull Request Template
+# 🚀 Pull Request Template
 
-## 📌 Summary
+## 📝 Overview
 
-- **Project Title:**
-- **Project Difficulty:** Beginner | Intermediate | Advanced
-- **Folder Location:** `<Beginner|Intermediate|Advanced>/<project-folder-name>/`
-
-<br/>
-
-## 🔍 Description
-
-Please provide a concise description of what your project does and what this pull request adds or improves. Be clear and specific.
+- **Project Name:**
+- **Directory Path:** `/<your-project-folder>`
 
 <br/>
 
-## ✅ Checklist
+## 🧩 What’s Changed?
 
-**Please confirm the following before requesting a merge:**
-
-- [ ] My project folder is placed inside the correct difficulty directory.
-- [ ] A detailed `README.md` has been added inside the project folder.
-- [ ] My code follows Python’s PEP-8 standards.
-- [ ] The code has been tested and runs without errors.
-- [ ] No unnecessary files (e.g., `.DS_Store`, `.pyc`, `__pycache__`, etc.) are included.
-- [ ] I have not modified existing projects unless fixing a bug or enhancing features.
+Briefly describe the purpose of this pull request. What problem does it solve or what feature does it add? Highlight any important changes.
 
 <br/>
 
-## 📸 Screenshots (Optional)
+## ☑️ Pre-Merge Checklist
 
-Add any relevant screenshots or terminal output to demonstrate functionality (optional but recommended for visibility):
+Before submitting, please ensure:
+
+- [ ] Added a comprehensive `README.md` in the project folder.
+- [ ] Code adheres to Python PEP-8 guidelines.
+- [ ] All code is tested and error-free.
+- [ ] No extraneous files (e.g., `.DS_Store`, `.pyc`, `__pycache__`) are present.
+- [ ] Existing projects are unchanged unless fixing bugs or improving features.
 
 <br/>
 
-### Thank you for your contribution! 🚀
+## 🖼️ Visuals (Optional)
+
+Attach screenshots or terminal outputs to showcase your work (optional but encouraged).
+
+<br/>
+
+Thank you for your valuable contribution!
