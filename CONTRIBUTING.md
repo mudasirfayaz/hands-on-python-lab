@@ -3,24 +3,13 @@
 <p> </p>
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-green)
+![Status](https://img.shields.io/badge/projects-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-informational)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
 <br/>
 
-## Repository Structure
-
-Please place your project in the appropriate difficulty folder:
-
-- `01-Beginner/`
-- `02-Intermediate/`
-- `03-Advanced/`
-
-Each project must:
-
-- Be placed in a **dedicated folder**.
-- Include a `README.md` using the [README Template](./README_TEMPLATE.md) (provided in this repo).
-- Follow Python [PEP-8](https://peps.python.org/pep-0008/) style guidelines.
-- Be functional and self-contained.
+> **Please ensure you maintain the existing project structure and follow naming conventions when contributing. Organize your files and folders as per the repository guidelines to keep the codebase clean and consistent. This helps everyone collaborate efficiently and makes it easier to review and integrate your changes.**
 
 <br/>
 
@@ -97,20 +86,24 @@ git push origin <branch-name>
 
 <br/>
 
-## Pull Request Requirements
+## Pull Request Checklist
 
-- ✅ Include a `README.md` for new projects
-- ✅ Update `README.md` for new features.
-- ✅ Make sure your code runs without errors.
-- ✅ Avoid adding third-party dependencies unless necessary.
-- ✅ Follow directory and naming conventions.
+- 📄 Add a `README.md` for any new project.
+- ✏️ Update the `README.md` when introducing new features.
+- 🧪 Ensure your code runs error-free.
+- 🚫 Only include third-party dependencies if absolutely required.
+- 📁 Adhere to the project's directory structure and naming guidelines.
+
+<br/>
+
+## License 📜
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
 <br/>
 
 ![Output](assets/docs/star.png)
 
 <p> </p>
-
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
 _(Need help? Open an [issue](https://github.com/mudasirfayaz/hands-on-python-lab/issues).)_
