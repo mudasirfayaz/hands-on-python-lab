@@ -27,21 +27,23 @@ A curated set of practical Python mini-projects created to reinforce essential p
 
 ## Project Index 📁
 
-| Project Name                                     | Description                                          |
-| ------------------------------------------------ | ---------------------------------------------------- |
-| [`caesar-cipher`](./caesar-cipher)               | Encode and decode messages using Caesar Cipher logic |
-| [`calculator`](./calculator)                     | Simple calculator supporting basic arithmetic        |
-| [`hangman`](./hangman)                           | Classic Hangman word guessing game                   |
-| [`number-guessing-game`](./number-guessing-game) | Guess the randomly generated number                  |
-| [`password-generator`](./password-generator)     | Generate secure random passwords                     |
-| [`rock-paper-scissors`](./rock-paper-scissors)   | Play Rock-Paper-Scissors against the computer        |
-| [`coffee-machine`](./coffee-machine)             | Simulate a coffee vending machine                    |
-| [`coffee-machine-oop`](./coffee-machine-oop)     | Coffee machine refactored using OOP principles       |
-| [`hirst-spot-painting`](/hirst-spot-painting)    | Recreates Hirst-style dot paintings using Turtle     |
-| [`turtle-race`](./turtle-race)                   | Fun turtle race where user bets on the winning color |
-| [`snake-game`](./snake-game)                     | Classic Snake game built with OOP and Turtle         |
-| [`quiz-game`](./quiz-game)                       | A terminal-based quiz using OOP and Open Trivia data |
-| ...more coming soon!                             | 🚧                                                   |
+| Project Name                                    | Description                                                                  |
+| ----------------------------------------------- | ---------------------------------------------------------------------------- |
+| [`caesar-cipher`](/caesar-cipher)               | Encode and decode messages using Caesar Cipher logic                         |
+| [`calculator`](/calculator)                     | Simple calculator supporting basic arithmetic opreations                     |
+| [`hangman`](/hangman)                           | A simple command-line implementation of the classic Hangman game in Python   |
+| [`number-guessing-game`](/number-guessing-game) | A fun, interactive number guessing game built using Python                   |
+| [`password-generator`](/password-generator)     | Generates secure random passwords based on user preferences.                 |
+| [`rock-paper-scissors`](/rock-paper-scissors)   | Play Rock-Paper-Scissors against the computer                                |
+| [`coffee-machine`](/coffee-machine)             | Simulate a coffee vending machine                                            |
+| [`coffee-machine-oop`](/coffee-machine-oop)     | Coffee machine refactored using OOP principles                               |
+| [`hirst-spot-painting`](/hirst-spot-painting)   | Recreates Hirst-style dot paintings using Turtle                             |
+| [`turtle-race`](/turtle-race)                   | Fun turtle race where user bets on the winning color                         |
+| [`snake-game`](/snake-game)                     | Classic Snake game built with OOP and Turtle                                 |
+| [`quiz-game`](/quiz-game)                       | A terminal-based quiz using OOP and Open Trivia data                         |
+| [`us-states-game`](/us-states-game)             | An interactive Python-based quiz game where players guess all 50 U.S. states |
+| [`NATO-alphabet`](/NATO-alphabet)               | display NATO phonetic alphabet representation of a word                      |
+| ...more coming soon!                            | 🚧                                                                           |
 
 > 📌 More projects will be added over time as I explore advanced topics (APIs, GUIs, file I/O, etc.)
 
