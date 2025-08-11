@@ -40,6 +40,7 @@ A curated set of practical Python mini-projects created to reinforce essential p
 | [`quiz-game`](/quiz-game)                       | A simple terminal-based quiz app built using Python and OOP and Open Trivia data  |
 | [`hirst-spot-painting`](/hirst-spot-painting)   | A creative dot-art generator built using Python's `turtle` graphics module        |
 | [`turtle-race`](/turtle-race)                   | Fun turtle race where user bets on the winning color                              |
+| [`turtle-crossing`](/turtle-crossing)           | A Python `turtle` graphics game where you control a turtle crossing a busy road   |
 | [`snake-game`](/snake-game)                     | Enjoy a classic **Snake Game** crafted with Python's `turtle` graphics            |
 | [`pong-game`](/pong-game)                       | A modern, refactored implementation of the classic **Pong** game                  |
 | [`us-states-game`](/us-states-game)             | An interactive Python-based quiz game where players guess all 50 U.S. states      |
