@@ -51,7 +51,7 @@ cd hands-on-python-lab/turtle-race
 python main.py
 ```
 
-**2. A dialog box will appear asking:**
+**3. A dialog box will appear asking:**
 
 ```bash
 Which turtle will win the race? Enter a color:
