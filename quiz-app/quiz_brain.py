@@ -1,3 +1,6 @@
+import html
+
+
 class QuizBrain:
     def __init__(self, q_list):
         self.question_number = 0
@@ -12,18 +15,19 @@ class QuizBrain:
         self.question_number += 1
 
         # Display question and choices
-        print(f"Q.{self.question_number}: {current_question.text}")
+        q_text = html.unescape(current_question.text)
+        print(f"Q.{self.question_number}: {q_text}")
         option_letters = ["A", "B", "C", "D"]
-        option_map = {}
+        self.option_map = {}
 
         for i, option in enumerate(current_question.options):
-            print(f"{option_letters[i]}. {option}")
-            option_map[option_letters[i]] = option
+            print(f"{option_letters[i]}. {html.unescape(option)}")
+            self.option_map[option_letters[i]] = option
 
         while True:
             user_input = input("Your answer (A/B/C/D): ").strip().upper()
-            if user_input in option_map:
-                selected_option = option_map[user_input]
+            if user_input in self.option_map:
+                selected_option = self.option_map[user_input]
                 self.check_answer(selected_option, current_question.answer)
                 break
             else:
@@ -33,7 +37,10 @@ class QuizBrain:
 
         if user_answer.lower() == correct_answer.lower():
             self.score += 1
-            print("Correct answer ✅")
+            print("✅ Correct answer")
         else:
-            print(f"Wrong answer!. (The correct answer is {correct_answer})")
+            for key, value in self.option_map.items():
+                if value == correct_answer:
+                    print(f"❌ Wrong answer! The correct option is: {key}. '{value}'.")
+                    break
         print(" ")
