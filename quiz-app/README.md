@@ -1,44 +1,40 @@
 # Quiz App 🧠
 
-> A simple terminal-based quiz app built using Python and Object-Oriented Programming (OOP). The application reads Multiple Choice Questions from a data source and quizzes the user interactively, tracking the score and validating inputs.
-
-<br/>
-
-## 🎯 Project Objective
-
-- Reinforce Python OOP principles through a real-world-style mini-project
-- Practice encapsulation, class design, and method delegation
-- Learn basic input validation and quiz scoring logic
+> A command-line multiple-choice quiz game built in Python using the [Open Trivia Database API](https://opentdb.com/).  
+> The game lets you choose **difficulty** and **topic** before starting, then presents 10 randomized MCQs.  
+> Your score is tracked and displayed at the end of each round.
 
 <br/>
 
 ## Features
 
-- Presents a series of Multiple Choice Questions (MCQs)
-- Validates user input (rejects anything other than A, B, C or D)
-- Tracks and displays score in real-time
-- Modular class-based design using clean separation of responsibilities
-- Extendable for future enhancements (e.g., GUI, file-based questions, multiple users)
+- **Dynamic Questions** – Fetched live from Open Trivia DB API.
+- **Custom Difficulty** – Choose from `easy`, `medium`, or `hard`.
+- **Topic Selection** – Choose from multiple categories like _science_, _sports_, _computers_, and more.
+- **Multiple Choice Questions** – Four randomized options per question.
+- **Score Tracking** – Final score displayed at the end.
+- **Replay Option** – Play as many rounds as you want without restarting.
 
 <br/>
 
-## 🧠 Concepts Reinforced in This Project
+## 🧠 Concepts Reinforced
 
-| Concept                    | Demonstrated In                                             |
-| :------------------------- | :---------------------------------------------------------- |
-| Classes & Objects          | `Question`, `QuizBrain`                                     |
-| Encapsulation              | Attributes like `question_list`, `score`, `question_number` |
-| Input Validation           | `invalid_answer()` method filters invalid entries           |
-| List & Dictionary Handling | Used in data parsing (`question_data`)                      |
-| Looping & Conditionals     | `while` loop to run the quiz logic                          |
-| Responsibility Delegation  | Each class handles a single concern                         |
+This project improves understanding of:
+
+| Concept                         | Demonstrated In                                                     |
+| :------------------------------ | :------------------------------------------------------------------ |
+| **Object-Oriented Programming** | Classes for `Question` and `QuizBrain`.                             |
+| **API Integration**             | Fetching JSON data with query parameters.                           |
+| **Data Handling**               | Shuffling and inserting the correct answer among incorrect answers. |
+| **Input Validation**            | Handling invalid difficulty/topic entries gracefully.               |
+| **Game Loop Logic**             | Replay functionality and score tracking.                            |
 
 <br/>
 
 ## 🛠️ Prerequisites
 
 - Python 3.6 or higher
-- No external libraries required
+- Internet connection (for API calls)
 
 <br/>
 
@@ -51,7 +47,13 @@ git clone https://github.com/mudasirfayaz/hands-on-python-lab.git
 cd hands-on-python-lab/quiz-app
 ```
 
-**2. Run the script:**
+**2. Install Dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+**3. Run the script:**
 
 ```bash
 python main.py
@@ -67,19 +69,35 @@ python main.py
 ## 🧪 Example Output
 
 ```bash
-Q.1: What programming language was GitHub written in?
-A. Swift
-B. Kotlin
-C. JavaScript
-D. C#
-Your answer (A/B/C/D): a
-Wrong answer!. (The correct answer is Kotlin)
+Available difficulties: easy, medium, hard
+Available topics: general, books, film, music, science, computers, sports
+
+Choose difficulty: easy
+Choose topic: computers
+
+Q.1: According to the International System of Units, how many bytes are in a kilobyte of RAM?
+A. 512
+B. 1024
+C. 1000
+D. 500
+Your answer (A/B/C/D): b
+❌ Wrong answer! The correct option is: C. '1000'.
 
 ...
 
 You've completed the quiz
 Your final score is: 8/10
 ```
+
+<br/>
+
+## 📜 Available Choices
+
+| Difficulty         | Topics                                                  |
+| ------------------ | ------------------------------------------------------- |
+| easy, medium, hard | general, books, film, music, science, computers, sports |
+
+> **Tip:** Enter your choice in lowercase when prompted in the game.
 
 <br/>
 
@@ -96,9 +114,8 @@ Contributions are welcome and encouraged — whether you're fixing a typo, impro
 
 ### 🧪 Future Improvements (Suggestions)
 
-- Add support for loading questions from an external file (CSV/JSON/API)
-- Difficulty levels: Easy/Medium/Hard
-- Different categories: Computers/Mathematics/Geography
+- Add timed mode for answering questions.
+- Save high scores locally.
 - GUI version using Tkinter or PyQt
 - Display final percentage score and answer summary
 - Timer or countdown mode
