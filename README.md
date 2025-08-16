@@ -27,27 +27,28 @@ A curated set of practical Python mini-projects created to reinforce essential p
 
 ## Project Index 📁
 
-| Project Name                                    | Description                                                                       |
-| ----------------------------------------------- | --------------------------------------------------------------------------------- |
-| [`number-guessing-game`](/number-guessing-game) | A fun, interactive number guessing game built using Python                        |
-| [`password-generator`](/password-generator)     | Generates secure random passwords based on user preferences.                      |
-| [`calculator`](/calculator)                     | A clean, interactive, and beginner-friendly command-line calculator               |
-| [`rock-paper-scissors`](/rock-paper-scissors)   | A simple command-line implementation of the classic Rock-Paper-Scissors game      |
-| [`hangman`](/hangman)                           | A simple command-line implementation of the classic Hangman game in Python        |
-| [`caesar-cipher`](/caesar-cipher)               | Encode and decode messages using Caesar Cipher logic                              |
-| [`coffee-machine`](/coffee-machine)             | A simple Python-based CLI that simulates the behavior of a coffee vending machine |
-| [`coffee-machine-oop`](/coffee-machine-oop)     | Coffee machine refactored using OOP principles                                    |
-| [`quiz-game`](/quiz-game)                       | A simple terminal-based quiz app built using Python and OOP and Open Trivia data  |
-| [`hirst-spot-painting`](/hirst-spot-painting)   | A creative dot-art generator built using Python's `turtle` graphics module        |
-| [`turtle-race`](/turtle-race)                   | Fun turtle race where user bets on the winning color                              |
-| [`turtle-crossing`](/turtle-crossing)           | A Python `turtle` graphics game where you control a turtle crossing a busy road   |
-| [`snake-game`](/snake-game)                     | Enjoy a classic **Snake Game** crafted with Python's `turtle` graphics            |
-| [`pong-game`](/pong-game)                       | A modern, refactored implementation of the classic **Pong** game                  |
-| [`us-states-game`](/us-states-game)             | An interactive Python-based quiz game where players guess all 50 U.S. states      |
-| [`nato-alphabet`](/nato-alphabet)               | Display NATO phonetic alphabet representation of a word                           |
-| ...more coming soon!                            | 🚧                                                                                |
+| Project Name                                    | Description                                                                              |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [`number-guessing-game`](/number-guessing-game) | A fun, interactive number guessing game built using Python                               |
+| [`password-generator`](/password-generator)     | Generates secure random passwords based on user preferences.                             |
+| [`calculator`](/calculator)                     | A clean, interactive, and beginner-friendly command-line **calculator**                  |
+| [`rock-paper-scissors`](/rock-paper-scissors)   | A simple command-line implementation of the classic **Rock-Paper-Scissors** game         |
+| [`hangman`](/hangman)                           | A simple command-line implementation of the classic **Hangman game** in Python           |
+| [`caesar-cipher`](/caesar-cipher)               | Encode and decode messages using **Caesar Cipher** logic                                 |
+| [`coffee-machine`](/coffee-machine)             | A simple Python-based CLI that simulates the behavior of a coffee vending machine        |
+| [`coffee-machine-oop`](/coffee-machine-oop)     | Coffee machine refactored using **OOP** principles                                       |
+| [`quiz-app`](/quiz-app)                         | A simple terminal-based quiz app built using Python and **OOP** and **Open Trivia** data |
+| [`hirst-spot-painting`](/hirst-spot-painting)   | A creative dot-art generator built using Python's `turtle` graphics module               |
+| [`turtle-race`](/turtle-race)                   | Fun turtle race where user bets on the winning color                                     |
+| [`turtle-crossing`](/turtle-crossing)           | A Python `turtle` graphics game where you control a turtle crossing a busy road          |
+| [`snake-game`](/snake-game)                     | Enjoy a classic **Snake Game** crafted with Python's `turtle` graphics                   |
+| [`pong-game`](/pong-game)                       | A modern, refactored implementation of the classic **Pong game**                         |
+| [`us-states-game`](/us-states-game)             | An interactive Python-based quiz game where players guess all 50 U.S. states             |
+| [`nato-alphabet`](/nato-alphabet)               | Display NATO phonetic alphabet representation of a word                                  |
+| [`workout-tracker`](/workout-tracker)           | A Python project that uses the **Nutritionix API** and **Sheety API** to track workouts  |
+| ...more coming soon!                            | 🚧                                                                                       |
 
-> 📌 More projects will be added over time as I explore advanced topics (APIs, GUIs, file I/O, etc.)
+> 📌 More projects will be added over time as I explore advanced topics.
 
 <br/>
 
